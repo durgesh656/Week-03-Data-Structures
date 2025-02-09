@@ -1,0 +1,3 @@
+hello, this is a demo file.
+It is created for practice the file reading efficiently.
+this, file used for checking the performance of FileReader and InputStreamReader.
